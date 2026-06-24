@@ -36,7 +36,7 @@
 </td>
 <td width="33%" align="center">
 <a href="https://github.com/sampadkar21/sampadkar21">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sampadkar21&repo=sampadkar21&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sampadkar21&repo=PicInspector&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 </tr>
