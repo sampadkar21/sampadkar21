@@ -170,20 +170,6 @@ My goal is to grow into a strong ML / GenAI engineer with solid implementation s
 ---
 
 <!-- ========================= -->
-<!--         TROPHIES          -->
-<!-- ========================= -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sampadkar21&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-<!-- ========================= -->
 <!--        CONTACT            -->
 <!-- ========================= -->
 
@@ -191,8 +177,8 @@ My goal is to grow into a strong ML / GenAI engineer with solid implementation s
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin-id/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/sampad-kar-ab374a24b/">
+<img src="https://skillicons.dev/icons?i=" />
 </a>
 
 <a href="mailto:kar.sampad11@gmail.com">
@@ -202,20 +188,6 @@ My goal is to grow into a strong ML / GenAI engineer with solid implementation s
 <a href="https://github.com/sampadkar21">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-</div>
-
----
-
-<!-- ========================= -->
-<!--     CONTRIBUTION SNAKE    -->
-<!-- ========================= -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sampadkar21/sampadkar21/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
