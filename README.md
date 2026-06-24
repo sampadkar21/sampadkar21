@@ -84,7 +84,7 @@ My goal is to grow into a strong ML / GenAI engineer with solid implementation s
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,sql" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 ### AI / Machine Learning
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
