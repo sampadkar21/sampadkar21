@@ -178,7 +178,7 @@ My goal is to grow into a strong ML / GenAI engineer with solid implementation s
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sampad-kar-ab374a24b/">
-<img src="https://skillicons.dev/icons?i=" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:kar.sampad11@gmail.com">
