@@ -178,11 +178,11 @@ My goal is to grow into a strong ML / GenAI engineer with solid implementation s
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sampad-kar-ab374a24b/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"/>
 </a>
 
 <a href="mailto:kar.sampad11@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </div>
