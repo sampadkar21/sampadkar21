@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=sampadkar21&label=PROFILE+VIEWS)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sampadkar21)
