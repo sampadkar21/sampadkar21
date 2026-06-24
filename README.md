@@ -116,7 +116,6 @@ My goal is to grow into a strong ML / GenAI engineer with solid implementation s
 - Agentic AI
 - Model optimization
 - Quantization
-- Distributed training
 - Retrieval pipelines
 - Production deployment
 
