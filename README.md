@@ -185,10 +185,6 @@ My goal is to grow into a strong ML / GenAI engineer with solid implementation s
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/sampadkar21">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
 </div>
 
 ---
