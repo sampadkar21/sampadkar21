@@ -83,23 +83,27 @@ My goal is to grow into a strong ML / GenAI engineer with solid implementation s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,sql" />
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,jupyter" />
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,mongodb" />
+### Languages
+<img src="https://skillicons.dev/icons?i=python,sql" />
 
-</div>
-
-## 🤖 AI / ML Ecosystem
-
-<div align="center">
-
+### AI / Machine Learning
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Qdrant-EF3B6A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/vLLM-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transformers-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" />
+
+### Data Science
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+
+### Backend & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 </div>
 
